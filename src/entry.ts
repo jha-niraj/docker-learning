@@ -1,3 +1,3 @@
 const entry = {
-    name: 'Testing the Github Bot - 2',
+    name: 'Testing the Github Bot - 3',
 }
