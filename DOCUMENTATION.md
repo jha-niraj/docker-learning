@@ -1,0 +1,7 @@
+/**
+ * A constant object representing an entry with a name and description.
+ * @const entry
+ * @type {Object}
+ * @property {string} name - The name of the entry. Example: 'Testing the Github Bot - 10'.
+ * @property {string} description - The description of the entry. Example: 'This is a test entry'.
+ */
