@@ -1,4 +1,4 @@
 const entry = {
-    name: 'Testing the Github Bot - 3',
+    name: 'Testing the Github Bot - 4',
     description: "This is a test entry",
 }
