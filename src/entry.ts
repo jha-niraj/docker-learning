@@ -1,4 +1,3 @@
 const entry = {
-    name: 'entry',
-    age: 18
+    name: 'Testing the Github Bot',
 }
