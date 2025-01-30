@@ -1,4 +1,5 @@
-const details = {
-    name: "Niraj Jha",
-    age: 23
+const entry = {
+    name: "Niraj Kumar Jha",
+    age: 23,
+    country: "Nepal"
 }
