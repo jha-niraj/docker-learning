@@ -3,4 +3,5 @@ const newEntry = {
     age: 23,
     country: "Nepal",
     city: "Kathmandu",
+    email: "jhaniraj45@gmail.com",
 }
