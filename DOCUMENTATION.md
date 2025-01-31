@@ -120,3 +120,37 @@ const newEntry = {
 - This change is likely to be related to adding a new entry into a list or collection for processing.
 
 ---
+
+---
+
+## Pull Request Documentation
+
+**Date:** 2025-01-31
+
+# Pull Request Documentation
+
+**Date:** 2025-01-31
+
+## Code Changes:
+```js
+const newEntry = {
+    name: "Niraj Jha",
+    age: 23,
+    country: "Nepal",
+    city: "Kathmandu",
+    email: "jhaniraj45@gmail.com",
+}
+```
+
+## Explanation:
+- The provided code snippet defines a new object named `newEntry` with properties for a person's name, age, country, city, and email.
+- Each key modification sets a specific attribute for the individual (name, age, country, city, and email).
+- In this updated code, a new entry with the person's details has been added to the object.
+- The purpose of this code change is to introduce a new entry representing a person named Niraj Jha.
+
+## Observations:
+- This change adds a new entry to the existing object without modifying the previous entries.
+- The addition of the new person's details indicates an extension of the data set with additional information.
+- No specific limitations or additional context are mentioned in the documentation.
+
+---
