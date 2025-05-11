@@ -8,7 +8,7 @@ app.use(express.json());
 const prisma = new PrismaClient();
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Hello, TypeScript + Node.js, Next JS + Express!. I am testing out the Docker and learning it.');
+    res.send('Hello, TypeScript + Node.js, Next JS + Express!.');
 });
 app.get("/info", (req: Request, res: Response) => {
     res.send("Hey, I am Niraj Kumar Jha");
