@@ -13,9 +13,6 @@ app.get('/', (req: Request, res: Response) => {
 app.get("/info", (req: Request, res: Response) => {
     res.send("Hey, I am Niraj Kumar Jha");
 });
-app.get('/getname', (req, res) => {
-    res.send("Hi, I am Niraj Kumar Jha");
-})
 app.post('/adduser', async (req: any, res: any) => {
     const { name, email } = req.body;
 
