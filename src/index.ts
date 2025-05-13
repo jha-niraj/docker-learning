@@ -10,9 +10,6 @@ const prisma = new PrismaClient();
 app.get('/', (req: Request, res: Response) => {
     res.send('Hello, TypeScript + Node.js, Next JS + Express!.');
 });
-app.get("/info", (req: Request, res: Response) => {
-    res.send("Hey, I am Niraj Kumar Jha");
-});
 app.post('/adduser', async (req: any, res: any) => {
     const { name, email } = req.body;
 
