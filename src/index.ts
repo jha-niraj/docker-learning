@@ -8,7 +8,7 @@ app.use(express.json());
 const prisma = new PrismaClient();
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Hello, TypeScript + Node.js, Next JS');
+    res.send('TypeScript + Node.js, Next JS');
 });
 app.post('/adduser', async (req: any, res: any) => {
     const { name, email } = req.body;
